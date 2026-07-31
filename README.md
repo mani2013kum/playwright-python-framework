@@ -111,7 +111,7 @@ pytest tests/test_webapi.py
 Automation Test Engineer
 
 LinkedIn:
-https://www.linkedin.com/in/manisha-kumari-50203a194/
+www.linkedin.com/in/manisha-kumari-qa
 
 GitHub:
 https://github.com/mani2013kum
