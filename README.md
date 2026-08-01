@@ -63,6 +63,12 @@ SAUCEDEMO
 - JSON Test Data
 - Assertions and Validations
 - Modular Framework Design
+- Global Runtime configuration
+--Features
+- global runtime variable managed through conftest.py
+- Browser selection through Terminal
+- centralized configuration of all test cases.
+- Easy execution across different environments.
 
 ---
 
@@ -111,7 +117,9 @@ pytest tests/test_webapi.py
 Automation Test Engineer
 
 LinkedIn:
-https://www.linkedin.com/in/manisha-kumari-50203a194/
+www.linkedin.com/in/
+manisha-kumari-qa
+
 
 GitHub:
 https://github.com/mani2013kum
