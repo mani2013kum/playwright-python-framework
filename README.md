@@ -64,6 +64,7 @@ SAUCEDEMO
 - Assertions and Validations
 - Modular Framework Design
 - Global Runtime configuration
+
 --Features
 - global runtime variable managed through conftest.py
 - Browser selection through Terminal
