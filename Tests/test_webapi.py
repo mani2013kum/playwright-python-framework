@@ -1,7 +1,7 @@
 
 from playwright.sync_api import Playwright, expect
 
-from __pycache__.utils.apiBase import APIUtils
+from utils.apiBase import APIUtils
 
 
 def test_webapi(playwright:Playwright):

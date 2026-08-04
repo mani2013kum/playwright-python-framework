@@ -69,6 +69,11 @@ SAUCEDEMO
 - Browser selection through Terminal
 - centralized configuration of all test cases.
 - Easy execution across different environments.
+- Browser value decided during run time
+- Runing test parallely and sequence mode
+- Generate HTML Report 
+- Playwright Traceviewer -to generate logs,screenshots of the test in zip file
+
 
 ---
 

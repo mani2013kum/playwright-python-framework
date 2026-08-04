@@ -1,5 +1,5 @@
 
-from __pycache__.utils.apiBase import APIUtils
+from utils.apiBase import APIUtils
 from playwright.sync_api import Page, Playwright, expect
 def test_session_storage(playwright:Playwright):
         api_utils=APIUtils()
