@@ -74,6 +74,13 @@ SAUCEDEMO
 - Runing test parallely and sequence mode
 - Generate HTML Report 
 - Playwright Traceviewer -to generate logs,screenshots of the test in zip file
+- Introduction to BDD framework with Pytest integration
+- Pytest-BDD plugin configuration
+- Gherkin feature file creation
+- Step Definition implementation
+- Data sharing across multiple step methods
+- End-to-End BDD test execution from the terminal
+- Troubleshooting and fixing common Pytest-BDD execution issues
 
 
 ---
